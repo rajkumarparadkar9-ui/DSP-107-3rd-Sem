@@ -3,9 +3,7 @@ b = 5
 print("Addition:", a + b)
 print("Division:", a / b)
 print("a > b:", a > b)
-# Logical
 print("a > 5 and b < 10:", a > 5 and b < 10)
-# Bitwise
 print("a & b:", a & b)
 a += b
 print("Updated a:", a)
